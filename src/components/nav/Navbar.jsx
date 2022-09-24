@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import Nav, { Logo, MenuLink, Menu, Hamburger } from "./Navbar.style";
-import { Link } from "react-router-dom";
 import { GiHamburgerMenu } from "react-icons/gi";
 
 const Navbar = () => {
